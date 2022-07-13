@@ -7,5 +7,27 @@
 2º (git status) give you a list of unadded files
 
 3º (git add "file name") add the file to the version control system
+    3.1 (git add .) add all the modified files
 
-4º 
+4º (git commit -m "note")  creates a new version of the file 
+    4.1 If it is your first time using git, follow these steps:
+        4.1.1 (git config --global user.email "you@example.com")
+              (git config --global user.name "your name")
+        4.1.2 And then (git commit -m "note")
+
+5º (git push) push the file to the github repository 
+    5.1 If the destination is not configured, follow these steps:
+        5.1.1 (git remote add <name> <url>) 
+        5.1.2 (git push --set-upstream origin master)
+//--------------------Steps to use git--------------------//
+
+//--------------------Using git features--------------------//
+(git reflog) show file versions 
+
+(git reset --hard <file code>) resets the file to the previous version or the version you want 
+
+
+
+
+
+//--------------------Using git features--------------------//
