@@ -1,0 +1,11 @@
+//--------------------Steps to use git--------------------//
+
+* Commands : (code here) *
+
+1º (git init) in the file you want to start a repository
+
+2º (git status) give you a list of unadded files
+
+3º (git add "file name") add the file to the version control system
+
+4º 
