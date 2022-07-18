@@ -32,7 +32,16 @@
 
 (git checkout <branch_name>) change branch
 
-Testing branches 
+(git merge <branch_name>) merge branches
+    Follow these steps:
+        1- (git pull) in the principal branch
+        2- (git branch <name>) create a new branch
+        3- Add or modify what you want in the new branch
+        4- Finish work on temporary branch
+        5- (git checkout <branch_name>) to the principal branch 
+        6- (git pull) 
+        7- (git merge <branch_name>)
+        8- (git push)  
 
 
 //--------------------Using git features--------------------//
