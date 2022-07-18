@@ -26,6 +26,11 @@
 
 (git reset --hard <file code>) resets the file to the previous version or the version you want 
 
+(git branch) shows the branches in the repository and the branch you are on  
+
+(git branch <name>) create a new branch 
+
+(git checkout <branch_name>) change branch
 
 
 
