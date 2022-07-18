@@ -32,7 +32,7 @@
 
 (git checkout <branch_name>) change branch
 
-
+Testing branches 
 
 
 //--------------------Using git features--------------------//
